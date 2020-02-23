@@ -1,0 +1,21 @@
+{
+  "name": "tsx-project-template",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "bin": {
+    "create-project": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "description": ""
+}
